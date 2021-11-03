@@ -1,0 +1,50 @@
+#texto h1{
+  font-family: 'Inter', sans-serif;
+  color: white;
+}
+
+
+#texto p{
+  font-family: 'Inter', sans-serif;
+  color: white;
+}
+
+#companies h2{
+  color: white;
+  margin-left: 15px;
+  font-family: 'Lexend Deca', sans-serif;
+
+}
+
+#companies h4{
+  color: white;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+#templates h2{
+  color: white;
+  margin-left: 15px;
+  font-family: 'Lexend Deca', sans-serif;
+
+}
+
+#templates h4{
+  color: white;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+#queries h2{
+  color: white;
+  margin-left: 15px;
+  font-family: 'Lexend Deca', sans-serif;
+
+}
+
+#queries h4{
+  color: white;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+#texto span{
+  color:darkmagenta
+}
